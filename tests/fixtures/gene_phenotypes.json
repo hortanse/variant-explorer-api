@@ -1,0 +1,29 @@
+[
+  {
+    "source": {
+      "name": "OMIM",
+      "url": "https://omim.org/entry/113705"
+    },
+    "phenotype": {
+      "description": "Breast-ovarian cancer, familial 1"
+    }
+  },
+  {
+    "source": {
+      "name": "OMIM",
+      "url": "https://omim.org/entry/604370"
+    },
+    "phenotype": {
+      "description": "Breast cancer"
+    }
+  },
+  {
+    "source": {
+      "name": "OMIM",
+      "url": "https://omim.org/entry/167000"
+    },
+    "phenotype": {
+      "description": "Ovarian cancer"
+    }
+  }
+] 

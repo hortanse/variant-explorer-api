@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rs80357906",
+    "seq_region_name": "17",
+    "start": 41245466,
+    "end": 41245466,
+    "allele_string": "G/A",
+    "variant_class": "SNV",
+    "most_severe_consequence": "missense_variant",
+    "transcript_consequences": [
+      {
+        "transcript_id": "ENST00000357654",
+        "gene_id": "ENSG00000012048",
+        "gene_symbol": "BRCA1",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "protein_start": 1699,
+        "protein_end": 1699,
+        "amino_acids": "R/Q",
+        "polyphen_prediction": "probably_damaging",
+        "sift_prediction": "deleterious"
+      }
+    ],
+    "clinical_significance": [
+      "pathogenic"
+    ],
+    "colocated_variants": [
+      {
+        "id": "rs80357906",
+        "frequencies": {
+          "gnomAD": {
+            "A": 0.00032,
+            "afr": 0.0001,
+            "eur": 0.0005,
+            "asj": 0.0007,
+            "eas": 0.0002
+          },
+          "1000GENOMES": {
+            "A": 0.0002
+          }
+        }
+      }
+    ]
+  }
+] 

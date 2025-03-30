@@ -1,0 +1,26 @@
+{
+  "id": "ENSG00000012048",
+  "display_name": "BRCA1",
+  "description": "BRCA1 DNA repair associated",
+  "seq_region_name": "17",
+  "start": 43044295,
+  "end": 43125483,
+  "biotype": "protein_coding",
+  "strand": 1,
+  "source": "ensembl_havana",
+  "version": 12,
+  "Transcript": [
+    {
+      "id": "ENST00000357654",
+      "display_name": "BRCA1-201",
+      "biotype": "protein_coding",
+      "is_canonical": true
+    },
+    {
+      "id": "ENST00000471181",
+      "display_name": "BRCA1-202",
+      "biotype": "processed_transcript",
+      "is_canonical": false
+    }
+  ]
+} 

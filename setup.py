@@ -11,6 +11,15 @@ setup(
         "colorama>=0.4.4",
         "tqdm>=4.50.0",
     ],
+    extras_require={
+        "dev": [
+            "pytest>=6.0.0",
+            "pytest-cov>=2.10.0",
+            "flake8>=3.8.0",
+            "black>=20.8b1",
+            "isort>=5.0.0",
+        ],
+    },
     entry_points={
         "console_scripts": [
             "variant-explorer=variant_explorer.main:main",

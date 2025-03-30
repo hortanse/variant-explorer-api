@@ -1,0 +1,30 @@
+[
+  {
+    "dbname": "GO",
+    "primary_id": "GO:0006281",
+    "description": "DNA repair",
+    "display_id": "GO:0006281",
+    "info_type": "DIRECT"
+  },
+  {
+    "dbname": "GO",
+    "primary_id": "GO:0051276",
+    "description": "chromosome organization",
+    "display_id": "GO:0051276",
+    "info_type": "DIRECT"
+  },
+  {
+    "dbname": "GO",
+    "primary_id": "GO:0006974",
+    "description": "cellular response to DNA damage stimulus",
+    "display_id": "GO:0006974",
+    "info_type": "DIRECT"
+  },
+  {
+    "dbname": "GO",
+    "primary_id": "GO:0007049",
+    "description": "cell cycle",
+    "display_id": "GO:0007049",
+    "info_type": "DIRECT"
+  }
+] 

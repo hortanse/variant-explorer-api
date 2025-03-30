@@ -1,0 +1,23 @@
+[
+  {
+    "dbname": "Reactome",
+    "primary_id": "R-HSA-5693567",
+    "description": "HDR through Homologous Recombination (HRR)",
+    "display_id": "R-HSA-5693567",
+    "info_type": "DIRECT"
+  },
+  {
+    "dbname": "Reactome",
+    "primary_id": "R-HSA-5693532",
+    "description": "DNA Double-Strand Break Repair",
+    "display_id": "R-HSA-5693532",
+    "info_type": "DIRECT"
+  },
+  {
+    "dbname": "KEGG",
+    "primary_id": "hsa03440",
+    "description": "Homologous recombination",
+    "display_id": "hsa03440",
+    "info_type": "DIRECT"
+  }
+] 
