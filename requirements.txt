@@ -1,0 +1,4 @@
+requests>=2.25.0
+pandas>=1.1.0
+colorama>=0.4.4
+tqdm>=4.50.0 
